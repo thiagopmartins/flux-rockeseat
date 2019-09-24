@@ -1,5 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
+import 'react-toastify/dist/ReactToastify.css';
 import box from '../assets/images/box.svg';
 
 export default createGlobalStyle`
